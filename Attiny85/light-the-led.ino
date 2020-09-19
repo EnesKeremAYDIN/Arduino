@@ -1,8 +1,8 @@
-void setup() {
+void loop() { // Codes to be run in a continuous loop.
 // other codes
 }
 
-void loop() {
+void loop() { // Codes to be run in a continuous loop.
   pinMode(1, OUTPUT); // Pin mod.
   digitalWrite(1, HIGH); // Lights up the led. 
   delay(500); // Wait 500 ms.
