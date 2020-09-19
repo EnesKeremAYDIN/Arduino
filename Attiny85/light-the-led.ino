@@ -1,5 +1,5 @@
 void loop() { // Codes to be run in a continuous loop.
-// other codes
+// Other codes.
 }
 
 void loop() { // Codes to be run in a continuous loop.
